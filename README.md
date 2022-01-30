@@ -4,7 +4,7 @@ Un repositorio para empezar a usar Github y Github Actions con Java
 
 ## ¿Como probar en el cloud?
 
-[![](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitt-3-pat/hello-world)
+[![](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/joserra20/hello-world/)
 
 ## Comandos git básicos
 
