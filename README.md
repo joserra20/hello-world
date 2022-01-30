@@ -1,23 +1,13 @@
-# hello-world
+# Practica 1 PAT
 
-Un repositorio para empezar a usar Github y Github Actions con Java
+Este es el repositorio utilizado para practicar con git y realizar la práctica 1.
 
-## ¿Como probar en el cloud?
+## Documento de la práctica
+En el repositorio se encuentra un documento PDF que recoge los pasos seguidos en la práctica y una explicación de los comandos más importantes a la hora de usar git.
+## Enlace al GitPod del repositorio
 
 [![](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/joserra20/hello-world/)
 
-## Comandos git básicos
-
-```
-git clone https://github.com/gitt-3-pat/hello-world
-git status
-git add .
-git commit -m "TU MENSAJE"
-git push
-
-git checkout -b feature/1
-git checkout main
-```
 
 ## Referencias
 
